@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-github-25&label=Profile%20views&color=0e75b6&style=flat" alt="akash-github-25" /> </p>
-<img style="height: 250px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
+<img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
 
 <p align="left"> <a href="https://akash-github-25.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=blue" alt="Akash__Mishra" /></a> </p>
 
@@ -28,7 +28,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-github-25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- <br/> <div display="flex" align="center" >
+ <br/> <div>
     <a  href="https://github.com/akash-github-25/github-readme-stats"><img alt="Akash Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-github-25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/akash-github-25/github-readme-stats"><img alt="Akash Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akash-github-25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
    

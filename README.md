@@ -37,7 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/akash-github-25/github-readme-activity-graph"><img alt="Akash Mishra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akash-github-25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/akash-github-25/github-readme-activity-graph"><img alt="Akash Mishra Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akash-github-25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
